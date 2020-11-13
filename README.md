@@ -1,2 +1,2 @@
 # destroy-the-ring
-One ring fools them all
+One ring to fool them all
